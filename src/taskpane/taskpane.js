@@ -1,4 +1,4 @@
-// import "./excel";
+import "./excel";
 // import "./onenote";
 // import "./outlook";
 // import "./powerpoint";

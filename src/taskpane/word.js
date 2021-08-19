@@ -8,8 +8,6 @@
 import "../../assets/icon-16.png";
 import "../../assets/icon-32.png";
 import "../../assets/icon-80.png";
-import * as preetiConverter from "../taskpane/preeti.js";
-// import { all_rules } from "../taskpane/all_rules.js";
 
 /* global document, Office, Word */
 
@@ -173,5 +171,4 @@ function getText() {
       return customSelection.text();
    })
 }
-
 
